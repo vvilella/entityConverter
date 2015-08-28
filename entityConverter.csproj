@@ -43,6 +43,11 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="testEntity\DTO\AgenteDTO.cs" />
+    <Compile Include="CustomAttribute\ProperyEntityAttribute.cs" />
+    <Compile Include="testEntity\DTO\BaseDTO.cs" />
+    <Compile Include="testEntity\Model\Agente.cs" />
+    <Compile Include="testEntity\Model\BaseModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
